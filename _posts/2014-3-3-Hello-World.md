@@ -5,6 +5,6 @@ title: Welcome, Jorge!
 
 This is you:
 
-![_config.yml]({{ site.baseurl }}/images/jorge.png)
+![alt text](alexandersiegel.github.io/images/jorge.jpg "HIS NAME WAS JORGE")
 
 We can add posts after this one easily.
