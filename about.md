@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a site that tells people how to make some of the things that I've made.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hey, this is me (Alex Siegel)! 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:me@alexandersiegel.com)
