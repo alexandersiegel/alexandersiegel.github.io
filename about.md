@@ -12,4 +12,4 @@ Hey, this is me (Alex Siegel)!
 
 ### Contact me
 
-[email@domain.com](mailto:me@alexandersiegel.com)
+[me@alexandersiegel.com](mailto:me@alexandersiegel.com)
