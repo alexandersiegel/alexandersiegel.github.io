@@ -1,3 +1,3 @@
 This repo is for a github pages website (alexandersiegel.com) that gives in-depth instructions on hardware and software projects I've done.
 
-Thanks you Barry Clark for the framework for this Jekyll website and to Freepik for the open source favicon (www.flaticon.com). 
+Thank goes to Barry Clark for the framework for this Jekyll website and to Freepik for the open source favicon (www.flaticon.com). 
