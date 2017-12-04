@@ -11,6 +11,7 @@ It's about two miles across, but the bridge bike path is:
 *   Narrow
 *   Loud
 *   Fumey from the traffic
+
 Now I can take the bridge or cross the lake itself.
 
 Here's me riding the final product on Lake Washington:
