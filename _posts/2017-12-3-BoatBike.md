@@ -7,6 +7,7 @@ title: Making a Boat Bike!
 This was a fun and easy project!
 
 I live right on Lake Washington in Seattle and often cross from one side to the other by bike.
+
 It's about two miles across, but the bridge bike path is:
 *   Narrow
 *   Loud
